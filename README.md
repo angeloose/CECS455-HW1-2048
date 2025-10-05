@@ -6,8 +6,8 @@ __"2048 is a single-player sliding tile puzzle video game written by Italian web
 * **No pip installations necessary**
 
 # To run code 
-* Open directory with 2048.py file path located.
-* In terminal run: *python 2048.py*
+1. Open directory with 2048.py file path located.
+2. In terminal run: *python 2048.py*
 
 ### Navigate menu and game using valid keyboard inputs: 
 *  W    Play game
